@@ -1,0 +1,38 @@
+{
+	"ui": {
+		"encoding": "gbk",
+		"fontName": "微软雅黑",
+		"textLicense": "许可协议",
+		"textCancleInstall": "",
+		"textCancleInstallMsgbox": "确定取消安装吗？",
+		"textAgreeLicense": "已经阅读,并同意",
+		"textCreateShortcut": "Create desktop shortcuts",
+		"textStartupOnBootstrap": "start up on bootstrap",
+		"textStartupOnFinish": "run after installation is completed",
+		"showLicense": true,
+		"showAgreeLicense": true,
+		"showCreateShortcut": true,
+		"showStartupOnFinish": true,
+		"showStartupOnBootstrap": true,
+		"showInstallPath": true
+	},
+	"installDetail": {
+		"createShortcut": true,
+		"startupOnFinish": true,
+		"startupOnBootstrap": true,
+		"agreeLicense": true,
+		"installPath": "",
+		"defaultInstallDir": "{pf}",
+		"installerOutputDir": "C:/Users/lw/Desktop"
+	},
+	"app": {
+		"id": "workplus 4.0.0",
+		"name": "workplus",
+		"version": "",
+		"publisher": "htgk",
+		"url": "",
+		"comments": "myapp_installer",
+		"exe": "D:/Program Files (x86)/nwjs/workplus-dev/WorkPlus.exe",
+		"package": "D:/Program Files (x86)/nwjs/workplus-dev/*"
+	}
+}
