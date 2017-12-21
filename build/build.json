@@ -3,18 +3,19 @@
 		"encoding": "gbk",
 		"fontName": "微软雅黑",
 		"textLicense": "许可协议",
-		"textCancleInstall": "",
-		"textCancleInstallMsgbox": "确定取消安装吗？",
 		"textAgreeLicense": "已经阅读,并同意",
+		"textCancleInstall": "",
 		"textCreateShortcut": "Create desktop shortcuts",
-		"textStartupOnBootstrap": "start up on bootstrap",
 		"textStartupOnFinish": "run after installation is completed",
+		"textStartupOnBootstrap": "start up on bootstrap",
+		"textCancleInstallMsgbox": "确定取消安装吗？",
+
 		"showLicense": true,
+		"showInstallPath": true,
 		"showAgreeLicense": true,
 		"showCreateShortcut": true,
 		"showStartupOnFinish": true,
-		"showStartupOnBootstrap": true,
-		"showInstallPath": true
+		"showStartupOnBootstrap": true
 	},
 	"installDetail": {
 		"createShortcut": true,
@@ -25,14 +26,32 @@
 		"defaultInstallDir": "{pf}",
 		"installerOutputDir": "C:/Users/lw/Desktop"
 	},
+	"registry": [
+		{
+			"root": "HKCR",
+			"subkey": "workplusProtocol\\DefaultIcon",
+			"type": "string",
+			"name": "URL Qiaoker Protocol",
+			"value": "{app}\\WorkPlus.exe",
+			"flags": "CreateValueIfDoesntExist"
+		},
+		{
+			"root": "HKCR",
+			"subkey": "workplusProtocol\\shell\\open\\command",
+			"type": "string",
+			"name": "URL Qiaoker Protocol",
+			"value": "{app}\\WorkPlus.exe \"\"%1\"\"",
+			"flags": "CreateValueIfDoesntExist"
+		}
+	],
 	"app": {
-		"id": "workplus 4.0.0",
-		"name": "workplus",
+		"id": "TakeColor 1.0.0",
+		"name": "TakeColor",
 		"version": "",
 		"publisher": "htgk",
 		"url": "",
 		"comments": "myapp_installer",
-		"exe": "D:/Program Files (x86)/nwjs/workplus-dev/WorkPlus.exe",
-		"package": "D:/Program Files (x86)/nwjs/workplus-dev/*"
+		"exe": "build/app/TakeColor.exe",
+		"package": "build/app/*"
 	}
 }
