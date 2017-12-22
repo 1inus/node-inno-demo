@@ -9,7 +9,6 @@
 		"textStartupOnFinish": "run after installation is completed",
 		"textStartupOnBootstrap": "start up on bootstrap",
 		"textCancleInstallMsgbox": "确定取消安装吗？",
-
 		"showLicense": true,
 		"showInstallPath": true,
 		"showAgreeLicense": true,
@@ -24,7 +23,7 @@
 		"agreeLicense": true,
 		"installPath": "",
 		"defaultInstallDir": "{pf}",
-		"installerOutputDir": "C:/Users/lw/Desktop"
+		"installerOutputDir": "C:/Users/cnlia/Desktop"
 	},
 	"registry": [
 		{
