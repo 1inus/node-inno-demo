@@ -1,20 +1,142 @@
 {
+	"buildScript": "",
 	"ui": {
 		"encoding": "gbk",
-		"fontName": "微软雅黑",
-		"textLicense": "许可协议",
-		"textAgreeLicense": "已经阅读,并同意",
-		"textCancleInstall": "",
-		"textCreateShortcut": "Create desktop shortcuts",
-		"textStartupOnFinish": "run after installation is completed",
-		"textStartupOnBootstrap": "start up on bootstrap",
-		"textCancleInstallMsgbox": "确定取消安装吗？",
-		"showLicense": true,
-		"showInstallPath": true,
-		"showAgreeLicense": true,
-		"showCreateShortcut": true,
-		"showStartupOnFinish": true,
-		"showStartupOnBootstrap": true
+		"fontName": "Microsoft YaHei",
+		"htmlAdBar": {
+			"top": 0,
+			"left": 0,
+			"width": 800,
+			"height": 350,
+			"show": false
+		},
+		"simpleAdBar": {
+			"images": [
+				"ad1.png"
+			],
+			"top": 0,
+			"left": 0,
+			"width": 800,
+			"height": 350,
+			"timeInterval": 3000,
+			"show": true
+		},
+		"licenseText": {
+			"text": "许可协议",
+			"top": 478,
+			"left": 172,
+			"color": "FF8833"
+		},
+		"moreOptions": {
+			"text": "更多安装选项",
+			"top": 12,
+			"left": 12,
+			"show": true,
+			"color": "000000"
+		},
+		"licenseCheckbox": {
+			"text": "已经阅读",
+			"top": 478,
+			"left": 91,
+			"checked": true,
+			"show": true,
+			"color": "000000"
+		},
+		"createShortcutCheckbox": {
+			"text": "创建桌面快捷方式",
+			"top": 478,
+			"left": 465,
+			"checked": true,
+			"show": true,
+			"color": "000000"
+		},
+		"startupOnFinishCheckbox": {
+			"text": "立即运行程序",
+			"top": 478,
+			"left": 352,
+			"checked": true,
+			"show": true,
+			"color": "000000"
+		},
+		"startupOnBootstrapCheckbox": {
+			"text": "开机启动",
+			"top": 478,
+			"left": 253,
+			"checked": true,
+			"show": true,
+			"color": "000000"
+		},
+		"installDirInput": {
+			"top": 429,
+			"left": 154,
+			"height": 35,
+			"width": 400,
+			"color": "000000",
+			"show": true
+		},
+		"installDirBrowserButton": {
+			"top": 429,
+			"left": 553,
+			"height": 35,
+			"width": 80,
+			"show": true
+		},
+		"cancleInstallMsgbox": {
+			"text": "确定取消安装吗？",
+			"show": true
+		},
+		"progressBar": {
+			"top": 435,
+			"left": 50,
+			"width": 700,
+			"height": 20,
+			"show": true
+		},
+		"progressText": {
+			"top": 390,
+			"left": 0,
+			"width": 800,
+			"height": 30,
+			"color": "E78E0E",
+			"show": true
+		},
+		"installButton": {
+			"top": 365,
+			"left": 274,
+			"width": 230,
+			"height": 50,
+			"show": true
+		},
+		"finishText": {
+			"text": "安装完毕",
+			"top": 385,
+			"left": 0,
+			"width": 800,
+			"height": 30,
+			"color": "20ad11",
+			"show": true
+		},
+		"finishButton": {
+			"top": 428,
+			"left": 275,
+			"width": 250,
+			"height": 50,
+			"show": true
+		},
+		"minimizeButton": {
+			"top": 4,
+			"left": 755,
+			"width": 16,
+			"height": 16,
+			"show": true
+		},
+		"closeButton": {
+			"top": 4,
+			"left": 779,
+			"width": 16,
+			"height": 16,
+			"show": true
+		}
 	},
 	"installDetail": {
 		"createShortcut": true,
