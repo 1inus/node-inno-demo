@@ -12,7 +12,7 @@
 		},
 		"simpleAdBar": {
 			"images": [
-				"ad1.png"
+				"0023.gif"
 			],
 			"top": 0,
 			"left": 0,
@@ -145,7 +145,7 @@
 		"agreeLicense": true,
 		"installPath": "",
 		"defaultInstallDir": "{pf}",
-		"installerOutputDir": "C:/Users/cnlia/Desktop"
+		"installerOutputDir": "C:/Users/lw/Desktop"
 	},
 	"registry": [
 		{
