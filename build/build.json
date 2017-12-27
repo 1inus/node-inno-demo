@@ -1,5 +1,42 @@
 {
 	"buildScript": "",
+	"installDetail": {
+		"createShortcut": true,
+		"startupOnFinish": true,
+		"startupOnBootstrap": true,
+		"agreeLicense": true,
+		"installPath": "",
+		"defaultInstallDir": "{pf}",
+		"installerOutputDir": "C:/Users/lw/Desktop"
+	},
+	"registry": [
+		{
+			"root": "HKCR",
+			"subkey": "workplusProtocol\\DefaultIcon",
+			"type": "string",
+			"name": "URL Qiaoker Protocol",
+			"value": "{app}\\WorkPlus.exe",
+			"flags": "CreateValueIfDoesntExist"
+		},
+		{
+			"root": "HKCR",
+			"subkey": "workplusProtocol\\shell\\open\\command",
+			"type": "string",
+			"name": "URL Qiaoker Protocol",
+			"value": "{app}\\WorkPlus.exe \"\"%1\"\"",
+			"flags": "CreateValueIfDoesntExist"
+		}
+	],
+	"app": {
+		"id": "TakeColor 1.0.0",
+		"name": "TakeColor",
+		"version": "",
+		"publisher": "htgk",
+		"url": "",
+		"comments": "myapp_installer",
+		"exe": "build/app/TakeColor.exe",
+		"package": "build/app/*"
+	},
 	"ui": {
 		"encoding": "gbk",
 		"fontName": "Microsoft YaHei",
@@ -14,9 +51,8 @@
 		},
 		"simpleAdBar": {
 			"images": [
-				"ad1.bmp",
-				"ad2.bmp",
-				"ad3.bmp"
+				"ad1.png",
+				"ad2.jpg"
 			],
 			"top": 0,
 			"left": 0,
@@ -141,42 +177,5 @@
 			"height": 16,
 			"show": true
 		}
-	},
-	"installDetail": {
-		"createShortcut": true,
-		"startupOnFinish": true,
-		"startupOnBootstrap": true,
-		"agreeLicense": true,
-		"installPath": "",
-		"defaultInstallDir": "{pf}",
-		"installerOutputDir": "C:/Users/cnlia/Desktop"
-	},
-	"registry": [
-		{
-			"root": "HKCR",
-			"subkey": "workplusProtocol\\DefaultIcon",
-			"type": "string",
-			"name": "URL Qiaoker Protocol",
-			"value": "{app}\\WorkPlus.exe",
-			"flags": "CreateValueIfDoesntExist"
-		},
-		{
-			"root": "HKCR",
-			"subkey": "workplusProtocol\\shell\\open\\command",
-			"type": "string",
-			"name": "URL Qiaoker Protocol",
-			"value": "{app}\\WorkPlus.exe \"\"%1\"\"",
-			"flags": "CreateValueIfDoesntExist"
-		}
-	],
-	"app": {
-		"id": "TakeColor 1.0.0",
-		"name": "TakeColor",
-		"version": "",
-		"publisher": "htgk",
-		"url": "",
-		"comments": "myapp_installer",
-		"exe": "build/app/TakeColor.exe",
-		"package": "build/app/*"
 	}
 }
