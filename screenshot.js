@@ -1,9 +1,9 @@
 let path = require("path");
 let { spawn } = require('child_process');
 
-let exe = path.join(__dirname, "screenShot.exe");
+let exe = path.join(__dirname, "Snipaste/Snipaste.exe");
 
-let cp = spawn(exe);
+let cp = spawn(exe, ["--snip"]);
 
 cp.stdout.on('data', (data)=>{
 	console.log(data);

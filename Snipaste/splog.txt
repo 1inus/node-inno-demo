@@ -1,0 +1,298 @@
+[2017-12-26 18:42:05.660] [I] ***************************************************************
+[2017-12-26 18:42:05.660] [I] Snipaste 1.15.3 x86 (Qt 5.9.0)
+[2017-12-26 18:42:05.660] [I] OS: Windows 10 (10.0) [10.0.10240]
+[2017-12-26 18:42:05.660] [I] Cores: 4
+[2017-12-26 18:42:05.660] [I] Elevated: false
+[2017-12-26 18:42:05.660] [I] Log level: 2
+[2017-12-26 18:42:05.660] [I] Application dir: D:/node-inno-demo/Snipaste
+[2017-12-26 18:42:05.660] [I] Config: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:42:05.660] [I] Library paths: (D:/node-inno-demo/Snipaste)
+[2017-12-26 18:42:05.660] [I] Screen scale: 1
+[2017-12-26 18:42:05.660] [I] Retina factor: 1
+[2017-12-26 18:42:05.660] [I] Screens: 1
+[2017-12-26 18:42:05.660] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:42:05.660] [I] About to import settings from: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:42:05.677] [I] Settings imported
+[2017-12-26 18:42:05.679] [I] Breakpad initialized
+[2017-12-26 18:42:05.680] [I] Process priority: 1
+[2017-12-26 18:42:05.680] [I] Initializing Snipaste...
+[2017-12-26 18:42:05.905] [I] Prefetch...
+[2017-12-26 18:42:05.906] [I] About to apply settings...
+[2017-12-26 18:42:05.913] [I] Image writer plugins loaded: 7 ms
+[2017-12-26 18:42:05.914] [I] Image reader plugins loaded: 1 ms
+[2017-12-26 18:42:06.203] [I] Settings applied
+[2017-12-26 18:42:06.336] [I] Log level set to: 2
+[2017-12-26 18:42:06.642] [I] History dir: D:/node-inno-demo/Snipaste/history
+[2017-12-26 18:42:06.647] [I] Header version: 161
+[2017-12-26 18:42:06.655] [I] About to restore pasters...
+[2017-12-26 18:42:06.658] [I] Group 0 [9HHPRR]: "默认"
+[2017-12-26 18:42:06.658] [I] Record version: 161
+[2017-12-26 18:42:06.658] [I] To restore: 0
+[2017-12-26 18:42:06.658] [I] Pasters touched
+[2017-12-26 18:42:06.658] [I] All pasters activated: true
+[2017-12-26 18:42:06.924] [I] Unref images: 0 (0 removed)
+[2017-12-26 18:42:06.924] [I] Unref dirs: 0 (0 removed)
+[2017-12-26 18:42:06.924] [I] Empty history info files: 0 (0 removed)
+[2017-12-26 18:42:06.924] [I] Pasters restored
+[2017-12-26 18:42:06.924] [I] Launch time: 1268 ms
+[2017-12-26 18:42:06.967] [I] Load default ssl configuration: 1061 ms
+[2017-12-26 18:43:08.085] [I] Silent feed checking finished
+[2017-12-26 18:43:08.085] [I] No available update
+[2017-12-26 18:46:40.908] [I] Quit from tray menu
+[2017-12-26 18:46:40.925] [I] Snipaste: normal exit
+[2017-12-26 18:46:40.925] [I] Snipper: destructed
+[2017-12-26 18:46:40.960] [I] Exit: 0
+
+
+[2017-12-26 18:46:43.252] [I] ***************************************************************
+[2017-12-26 18:46:43.252] [I] Snipaste 1.15.3 x86 (Qt 5.9.0)
+[2017-12-26 18:46:43.252] [I] OS: Windows 10 (10.0) [10.0.10240]
+[2017-12-26 18:46:43.252] [I] Cores: 4
+[2017-12-26 18:46:43.252] [I] Elevated: false
+[2017-12-26 18:46:43.252] [I] Log level: 2
+[2017-12-26 18:46:43.252] [I] Application dir: D:/node-inno-demo/Snipaste
+[2017-12-26 18:46:43.252] [I] Config: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:46:43.252] [I] Library paths: (D:/node-inno-demo/Snipaste)
+[2017-12-26 18:46:43.252] [I] Screen scale: 1
+[2017-12-26 18:46:43.252] [I] Retina factor: 1
+[2017-12-26 18:46:43.253] [I] Screens: 1
+[2017-12-26 18:46:43.253] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:46:43.253] [I] About to import settings from: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:46:43.285] [I] Settings imported
+[2017-12-26 18:46:43.286] [I] Breakpad initialized
+[2017-12-26 18:46:43.287] [I] Process priority: 1
+[2017-12-26 18:46:43.287] [I] Initializing Snipaste...
+[2017-12-26 18:46:43.505] [I] Prefetch...
+[2017-12-26 18:46:43.506] [I] About to apply settings...
+[2017-12-26 18:46:43.510] [I] Image writer plugins loaded: 4 ms
+[2017-12-26 18:46:43.511] [I] Image reader plugins loaded: 1 ms
+[2017-12-26 18:46:43.682] [I] Settings applied
+[2017-12-26 18:46:43.759] [I] Log level set to: 2
+[2017-12-26 18:46:43.980] [I] History dir: D:/node-inno-demo/Snipaste/history
+[2017-12-26 18:46:43.984] [I] Header version: 161
+[2017-12-26 18:46:43.991] [I] About to restore pasters...
+[2017-12-26 18:46:43.995] [I] Group 0 [9HHPRR]: "默认"
+[2017-12-26 18:46:43.995] [I] Record version: 161
+[2017-12-26 18:46:43.995] [I] To restore: 0
+[2017-12-26 18:46:43.995] [I] Pasters touched
+[2017-12-26 18:46:43.995] [I] All pasters activated: true
+[2017-12-26 18:46:44.281] [I] Unref images: 0 (0 removed)
+[2017-12-26 18:46:44.285] [I] Unref dirs: 0 (0 removed)
+[2017-12-26 18:46:44.305] [I] Empty history info files: 0 (0 removed)
+[2017-12-26 18:46:44.305] [I] Pasters restored
+[2017-12-26 18:46:44.305] [I] Launch time: 1055 ms
+[2017-12-26 18:46:44.508] [I] Load default ssl configuration: 1003 ms
+[2017-12-26 18:46:55.452] [I] Quit from tray menu
+[2017-12-26 18:46:55.487] [I] Snipaste: normal exit
+[2017-12-26 18:46:55.487] [I] Snipper: destructed
+[2017-12-26 18:46:55.523] [I] Exit: 0
+
+
+[2017-12-26 18:49:19.707] [I] ***************************************************************
+[2017-12-26 18:49:19.707] [I] Snipaste 1.15.3 x86 (Qt 5.9.0)
+[2017-12-26 18:49:19.707] [I] OS: Windows 10 (10.0) [10.0.10240]
+[2017-12-26 18:49:19.707] [I] Cores: 4
+[2017-12-26 18:49:19.707] [I] Elevated: false
+[2017-12-26 18:49:19.707] [I] Log level: 2
+[2017-12-26 18:49:19.707] [I] Application dir: D:/node-inno-demo/Snipaste
+[2017-12-26 18:49:19.707] [I] Config: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:49:19.707] [I] Library paths: (D:/node-inno-demo/Snipaste)
+[2017-12-26 18:49:19.707] [I] Screen scale: 1
+[2017-12-26 18:49:19.707] [I] Retina factor: 1
+[2017-12-26 18:49:19.707] [I] Screens: 1
+[2017-12-26 18:49:19.707] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:49:19.707] [I] About to import settings from: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:49:19.741] [I] Settings imported
+[2017-12-26 18:49:19.742] [I] Breakpad initialized
+[2017-12-26 18:49:19.743] [I] Process priority: 1
+[2017-12-26 18:49:19.743] [I] Initializing Snipaste...
+[2017-12-26 18:49:19.961] [I] Prefetch...
+[2017-12-26 18:49:19.962] [I] About to apply settings...
+[2017-12-26 18:49:19.967] [I] Image writer plugins loaded: 15 ms
+[2017-12-26 18:49:19.968] [I] Image reader plugins loaded: 0 ms
+[2017-12-26 18:49:20.111] [I] Settings applied
+[2017-12-26 18:49:20.175] [I] Log level set to: 2
+[2017-12-26 18:49:20.395] [I] History dir: D:/node-inno-demo/Snipaste/history
+[2017-12-26 18:49:20.398] [I] Header version: 161
+[2017-12-26 18:49:20.405] [I] About to restore pasters...
+[2017-12-26 18:49:20.409] [I] Group 0 [9HHPRR]: "默认"
+[2017-12-26 18:49:20.409] [I] Record version: 161
+[2017-12-26 18:49:20.409] [I] To restore: 0
+[2017-12-26 18:49:20.409] [I] Pasters touched
+[2017-12-26 18:49:20.409] [I] All pasters activated: true
+[2017-12-26 18:49:20.704] [I] Unref images: 0 (0 removed)
+[2017-12-26 18:49:20.712] [I] Unref dirs: 0 (0 removed)
+[2017-12-26 18:49:20.732] [I] Empty history info files: 0 (0 removed)
+[2017-12-26 18:49:20.732] [I] Pasters restored
+[2017-12-26 18:49:20.732] [I] Launch time: 1031 ms
+[2017-12-26 18:49:21.003] [I] Load default ssl configuration: 1053 ms
+[2017-12-26 18:50:21.585] [I] Silent feed checking finished
+[2017-12-26 18:50:21.585] [I] No available update
+[2017-12-26 18:50:52.258] [I] Quit from tray menu
+[2017-12-26 18:50:52.290] [I] Snipaste: normal exit
+[2017-12-26 18:50:52.290] [I] Snipper: destructed
+[2017-12-26 18:50:52.324] [I] Exit: 0
+
+
+[2017-12-26 18:55:35.882] [I] ***************************************************************
+[2017-12-26 18:55:35.882] [I] Snipaste 1.15.3 x86 (Qt 5.9.0)
+[2017-12-26 18:55:35.882] [I] OS: Windows 10 (10.0) [10.0.10240]
+[2017-12-26 18:55:35.882] [I] Cores: 4
+[2017-12-26 18:55:35.882] [I] Elevated: false
+[2017-12-26 18:55:35.882] [I] Log level: 2
+[2017-12-26 18:55:35.882] [I] Application dir: D:/node-inno-demo/Snipaste
+[2017-12-26 18:55:35.882] [I] Config: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:55:35.882] [I] Library paths: (D:/node-inno-demo/Snipaste)
+[2017-12-26 18:55:35.882] [I] Screen scale: 1
+[2017-12-26 18:55:35.882] [I] Retina factor: 1
+[2017-12-26 18:55:35.882] [I] Screens: 1
+[2017-12-26 18:55:35.882] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:55:35.882] [I] About to import settings from: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:55:35.900] [I] Settings imported
+[2017-12-26 18:55:35.901] [I] Breakpad initialized
+[2017-12-26 18:55:35.902] [I] Process priority: 1
+[2017-12-26 18:55:35.902] [I] Initializing Snipaste...
+[2017-12-26 18:55:36.120] [I] Prefetch...
+[2017-12-26 18:55:36.120] [I] About to apply settings...
+[2017-12-26 18:55:36.127] [I] Image writer plugins loaded: 6 ms
+[2017-12-26 18:55:36.128] [I] Image reader plugins loaded: 2 ms
+[2017-12-26 18:55:36.294] [I] Settings applied
+[2017-12-26 18:55:36.358] [I] Log level set to: 2
+[2017-12-26 18:55:36.602] [I] History dir: D:/node-inno-demo/Snipaste/history
+[2017-12-26 18:55:36.604] [I] Header version: 161
+[2017-12-26 18:55:36.615] [I] About to restore pasters...
+[2017-12-26 18:55:36.618] [I] Group 0 [9HHPRR]: "默认"
+[2017-12-26 18:55:36.618] [I] Record version: 161
+[2017-12-26 18:55:36.618] [I] To restore: 0
+[2017-12-26 18:55:36.618] [I] Pasters touched
+[2017-12-26 18:55:36.618] [I] All pasters activated: true
+[2017-12-26 18:55:37.022] [I] Unref images: 0 (0 removed)
+[2017-12-26 18:55:37.030] [I] Unref dirs: 0 (0 removed)
+[2017-12-26 18:55:37.055] [I] Empty history info files: 0 (0 removed)
+[2017-12-26 18:55:37.055] [I] Pasters restored
+[2017-12-26 18:55:37.055] [I] Launch time: 1177 ms
+[2017-12-26 18:55:37.124] [I] Load default ssl configuration: 1004 ms
+[2017-12-26 18:55:44.593] [I] Quit from tray menu
+[2017-12-26 18:55:44.625] [I] Snipaste: normal exit
+[2017-12-26 18:55:44.625] [I] Snipper: destructed
+[2017-12-26 18:55:44.659] [I] Exit: 0
+
+
+[2017-12-26 18:56:03.490] [I] ***************************************************************
+[2017-12-26 18:56:03.490] [I] Snipaste 1.15.3 x86 (Qt 5.9.0)
+[2017-12-26 18:56:03.490] [I] OS: Windows 10 (10.0) [10.0.10240]
+[2017-12-26 18:56:03.490] [I] Cores: 4
+[2017-12-26 18:56:03.490] [I] Elevated: false
+[2017-12-26 18:56:03.490] [I] Log level: 2
+[2017-12-26 18:56:03.490] [I] Application dir: D:/node-inno-demo/Snipaste
+[2017-12-26 18:56:03.490] [I] Config: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:56:03.490] [I] Library paths: (D:/node-inno-demo/Snipaste)
+[2017-12-26 18:56:03.490] [I] Screen scale: 1
+[2017-12-26 18:56:03.490] [I] Retina factor: 1
+[2017-12-26 18:56:03.490] [I] Screens: 1
+[2017-12-26 18:56:03.490] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:56:03.490] [I] About to import settings from: D:/node-inno-demo/Snipaste/config.ini
+[2017-12-26 18:56:03.525] [I] Settings imported
+[2017-12-26 18:56:03.526] [I] Breakpad initialized
+[2017-12-26 18:56:03.527] [I] Process priority: 1
+[2017-12-26 18:56:03.527] [I] Initializing Snipaste...
+[2017-12-26 18:56:03.781] [I] Prefetch...
+[2017-12-26 18:56:03.781] [I] About to apply settings...
+[2017-12-26 18:56:03.785] [I] Image writer plugins loaded: 4 ms
+[2017-12-26 18:56:03.786] [I] Image reader plugins loaded: 1 ms
+[2017-12-26 18:56:03.931] [I] Settings applied
+[2017-12-26 18:56:03.992] [I] Log level set to: 2
+[2017-12-26 18:56:04.208] [I] History dir: D:/node-inno-demo/Snipaste/history
+[2017-12-26 18:56:04.215] [I] Header version: 161
+[2017-12-26 18:56:04.229] [I] About to restore pasters...
+[2017-12-26 18:56:04.229] [I] Group 0 [9HHPRR]: "默认"
+[2017-12-26 18:56:04.229] [I] Record version: 161
+[2017-12-26 18:56:04.229] [I] To restore: 0
+[2017-12-26 18:56:04.229] [I] Pasters touched
+[2017-12-26 18:56:04.229] [I] All pasters activated: true
+[2017-12-26 18:56:04.476] [I] Unref images: 0 (0 removed)
+[2017-12-26 18:56:04.483] [I] Unref dirs: 0 (0 removed)
+[2017-12-26 18:56:04.500] [I] Empty history info files: 0 (0 removed)
+[2017-12-26 18:56:04.500] [I] Pasters restored
+[2017-12-26 18:56:04.500] [I] Launch time: 1009 ms
+[2017-12-26 18:56:04.864] [I] Load default ssl configuration: 1082 ms
+[2017-12-26 18:56:07.560] [I] Second instance: (D:\node-inno-demo\Snipaste\Snipaste.exe, --snip-full)
+[2017-12-26 18:56:07.561] [I] Snip request: 2 (dest: 0)
+[2017-12-26 18:56:07.601] [W] Unknown screenshot destination: 0
+[2017-12-26 18:56:19.430] [I] Second instance: (D:\node-inno-demo\Snipaste\Snipaste.exe, --snip-full)
+[2017-12-26 18:56:19.430] [I] Snip request: 2 (dest: 0)
+[2017-12-26 18:56:19.475] [W] Unknown screenshot destination: 0
+[2017-12-26 18:56:39.518] [I] Second instance: (D:\node-inno-demo\Snipaste\Snipaste.exe, --snip-full)
+[2017-12-26 18:56:39.518] [I] Snip request: 2 (dest: 0)
+[2017-12-26 18:56:39.563] [W] Unknown screenshot destination: 0
+[2017-12-26 18:57:05.607] [I] Silent feed checking finished
+[2017-12-26 18:57:05.607] [I] No available update
+[2017-12-26 18:57:30.344] [I] Second instance: (D:\node-inno-demo\Snipaste\Snipaste.exe, --snip)
+[2017-12-26 18:57:30.344] [I] Snip request: 0 (dest: 0)
+[2017-12-26 18:57:30.344] [I] Snipper: preparing...
+[2017-12-26 18:57:30.381] [I] Screens: 1
+[2017-12-26 18:57:30.381] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:57:30.381] [I] Desktop: QRect(0, 0, 1600 x 900)
+[2017-12-26 18:57:30.381] [I] Background size: QSize(1600, 900)
+[2017-12-26 18:57:30.383] [I] Snipper: preparation done (0)
+[2017-12-26 18:57:30.384] [I] Snipper: about to appear...
+[2017-12-26 18:57:30.384] [I] Snipper: prepare to show...
+[2017-12-26 18:57:30.388] [I] Snipper: shown
+[2017-12-26 18:57:30.390] [I] Snipper: focus in
+[2017-12-26 18:57:30.391] [I] Snipper: ready
+[2017-12-26 18:59:14.755] [I] Snipper: focus out
+[2017-12-26 18:59:31.813] [I] Snipper: focus in
+[2017-12-26 18:59:32.085] [I] Screenshot destination: file dialog
+[2017-12-26 18:59:32.233] [I] Snipper: focus out
+[2017-12-26 18:59:36.849] [I] Screenshot successfully saved: file dialog
+[2017-12-26 18:59:36.849] [I] Snipper: about to quit...
+[2017-12-26 18:59:36.850] [I] Snipper: focus in
+[2017-12-26 18:59:36.857] [I] Snipper: focus out
+[2017-12-26 18:59:36.864] [I] Snipper: hidden
+[2017-12-26 18:59:36.864] [I] Snipper: quit
+[2017-12-26 18:59:37.053] [I] Snipper: scene saved
+[2017-12-26 18:59:54.938] [I] Second instance: (D:\node-inno-demo\Snipaste\Snipaste.exe, --snip)
+[2017-12-26 18:59:54.938] [I] Snip request: 0 (dest: 0)
+[2017-12-26 18:59:54.938] [I] Snipper: preparing...
+[2017-12-26 18:59:54.968] [I] Screens: 1
+[2017-12-26 18:59:54.968] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 18:59:54.968] [I] Desktop: QRect(0, 0, 1600 x 900)
+[2017-12-26 18:59:54.968] [I] Background size: QSize(1600, 900)
+[2017-12-26 18:59:54.971] [I] Snipper: preparation done (0)
+[2017-12-26 18:59:54.971] [I] Snipper: about to appear...
+[2017-12-26 18:59:54.971] [I] Snipper: prepare to show...
+[2017-12-26 18:59:54.974] [I] Snipper: shown
+[2017-12-26 18:59:54.975] [I] Snipper: focus in
+[2017-12-26 18:59:54.976] [I] Snipper: ready
+[2017-12-26 18:59:59.765] [I] Screenshot destination: clipboard
+[2017-12-26 18:59:59.767] [I] Screenshot successfully saved: clipboard
+[2017-12-26 18:59:59.767] [I] Snipper: about to quit...
+[2017-12-26 18:59:59.773] [I] Snipper: focus out
+[2017-12-26 18:59:59.794] [I] Snipper: hidden
+[2017-12-26 18:59:59.794] [I] Snipper: quit
+[2017-12-26 18:59:59.976] [I] Snipper: scene saved
+[2017-12-26 19:00:05.547] [I] Second instance: (D:\node-inno-demo\Snipaste\Snipaste.exe, --snip)
+[2017-12-26 19:00:05.547] [I] Snip request: 0 (dest: 0)
+[2017-12-26 19:00:05.547] [I] Snipper: preparing...
+[2017-12-26 19:00:05.582] [I] Screens: 1
+[2017-12-26 19:00:05.582] [I]     QRect(0, 0, 1600 x 900), DPI = 96 , DPR = 1
+[2017-12-26 19:00:05.582] [I] Desktop: QRect(0, 0, 1600 x 900)
+[2017-12-26 19:00:05.582] [I] Background size: QSize(1600, 900)
+[2017-12-26 19:00:05.584] [I] Snipper: preparation done (0)
+[2017-12-26 19:00:05.584] [I] Snipper: about to appear...
+[2017-12-26 19:00:05.584] [I] Snipper: prepare to show...
+[2017-12-26 19:00:05.588] [I] Snipper: shown
+[2017-12-26 19:00:05.589] [I] Snipper: focus in
+[2017-12-26 19:00:05.590] [I] Snipper: ready
+[2017-12-26 19:00:09.221] [I] Screenshot destination: none
+[2017-12-26 19:00:09.221] [I] Snipper: about to quit...
+[2017-12-26 19:00:09.236] [I] Snipper: focus out
+[2017-12-26 19:00:09.243] [I] Snipper: hidden
+[2017-12-26 19:00:09.244] [I] Snipper: quit
+[2017-12-26 19:06:15.156] [I] Quit from tray menu
+[2017-12-26 19:06:15.176] [I] Snipaste: normal exit
+[2017-12-26 19:06:15.176] [I] Snipper: destructed
+[2017-12-26 19:06:15.208] [I] WinEnumer destructed
+[2017-12-26 19:06:15.213] [I] Exit: 0
+
+
