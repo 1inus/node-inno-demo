@@ -3,6 +3,8 @@
 	"ui": {
 		"encoding": "gbk",
 		"fontName": "Microsoft YaHei",
+		"clientWidth": 800,
+		"clientHeight": 500,
 		"htmlAdBar": {
 			"top": 0,
 			"left": 0,
@@ -12,7 +14,9 @@
 		},
 		"simpleAdBar": {
 			"images": [
-				"0023.gif"
+				"ad1.bmp",
+				"ad2.bmp",
+				"ad3.bmp"
 			],
 			"top": 0,
 			"left": 0,
