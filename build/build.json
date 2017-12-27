@@ -7,7 +7,7 @@
 		"agreeLicense": true,
 		"installPath": "",
 		"defaultInstallDir": "{pf}",
-		"installerOutputDir": "C:/Users/lw/Desktop"
+		"installerOutputDir": "C:/Users/cnlia/Desktop"
 	},
 	"registry": [
 		{
@@ -51,9 +51,11 @@
 		},
 		"simpleAdBar": {
 			"images": [
-				"ad1.png",
-				"ad2.jpg"
+				"ad1.jpg",
+				"ad2.jpg",
+				"ad3.jpg"
 			],
+			"interval": 5000,
 			"top": 0,
 			"left": 0,
 			"width": 800,
