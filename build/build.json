@@ -7,7 +7,17 @@
 		"agreeLicense": true,
 		"installPath": "",
 		"defaultInstallDir": "{pf}",
-		"installerOutputDir": "C:/Users/cnlia/Desktop"
+		"installerOutputDir": "C:/Users/lw/Desktop"
+	},
+	"app": {
+		"id": "workplus-pc",
+		"name": "workplus",
+		"version": "1.0.0",
+		"publisher": "htgk",
+		"url": "",
+		"comments": "workplus windows installer",
+		"exe": "E:/nwjs/workplus-pc-win-new/workplus-new/WorkPlus.exe",
+		"package": "E:/nwjs/workplus-pc-win-new/workplus-new/*"
 	},
 	"registry": [
 		{
@@ -27,16 +37,6 @@
 			"flags": "CreateValueIfDoesntExist"
 		}
 	],
-	"app": {
-		"id": "TakeColor 1.0.0",
-		"name": "TakeColor",
-		"version": "",
-		"publisher": "htgk",
-		"url": "",
-		"comments": "myapp_installer",
-		"exe": "build/app/TakeColor.exe",
-		"package": "build/app/*"
-	},
 	"ui": {
 		"encoding": "gbk",
 		"fontName": "Microsoft YaHei",
